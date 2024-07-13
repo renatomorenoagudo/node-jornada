@@ -1,0 +1,187 @@
+{
+    "workbench.startupEditor" : " novoArquivoSemTítulo " ,
+    "editor.fontSize" : 15 ,
+    "editor.lineHeight" : 1,8 ,
+    "javascript.suggest.autoImports" : verdadeiro ,
+    "javascript.updateImportsOnFileMove.enabled" : " sempre " ,
+    "editor.rulers" : [
+      80 ,
+      120
+    ],
+    "extensions.ignoreRecommendations" : verdadeiro ,
+    "typescript.tsserver.log" : " desligado " ,
+    "editor.stickyScroll.enabled" : falso ,
+    "workbench.tree.enableStickyScroll" : falso ,
+    "arquivos.associações" : {
+      ".env.*" : " dotenv " ,
+      ".prettierrc" : " json " ,
+      "*.css" : " css " ,
+      ".dev.vars" : " dotenv "
+    },
+    "símbolos.arquivos.associações" : {
+      "*.module.ts" : " ninho " ,
+      "*.guard.ts" : " texto datilografado " ,
+      "*.spec.ts" : " teste-ts " ,
+      "*.e2e-spec.ts" : " teste-ts " ,
+      "*.mock.ts" : " teste-ts " ,
+      "vitest.config.e2e.ts" : " vitest " ,
+      ".env.development.local" : " engrenagem " ,
+      ".env.test.local" : " engrenagem " ,
+      ".env.local" : " engrenagem " ,
+      ".env.example" : " engrenagem "
+    },
+    "tailwindCSS.experimental.classRegex" : [
+      [
+        " tv \\ (([^)]*) \\ ) " ,
+        " [ \" '`]([^ \" '`]*).*?[ \" '`] "
+      ],
+      " classe: \\ s*?[ \" '`]([^ \" '`]*).*?, "
+    ],
+    "editor.parameterHints.enabled" : falso ,
+    "editor.renderLineHighlight" : " calha " ,
+    "cSpell.language" : " en,pt " ,
+    "typescript.updateImportsOnFileMove.enabled" : " sempre " ,
+    "editor.suggestSelection" : " primeiro " ,
+    "explorer.confirmDelete" : falso ,
+    "gitlens.codeLens.recentChange.enabled" : falso ,
+    "terminal.integrated.showExitAlert" : falso ,
+    "[prisma]" : {
+      "editor.formatOnSave" : verdadeiro
+    },
+    "typescript.suggest.autoImports" : verdadeiro ,
+    "typescript.preferences.preferTypeOnlyAutoImports" : verdadeiro ,
+    "terminal.integrated.env.osx" : {
+      "FIG_NEW_SESSION" : " 1 "
+    },
+    "workbench.editor.labelFormat" : " curto " ,
+    // "editor.fontLigatures": verdadeiro,
+    "emmet.includeLanguages" : {
+      "javascript" : " javascriptreact "
+    },
+    "emmet.syntaxProfiles" : {
+      "javascript" : " jsx "
+    },
+    "cSpell.enableFiletypes" : [
+      " !asciidoc " ,
+      " !c " ,
+      " !cpp " ,
+      " !csharp " ,
+      " !ir " ,
+      " !guidão " ,
+      " !haskell " ,
+      " !jade " ,
+      " !java " ,
+      " !látex " ,
+      " !php " ,
+      " !pug " ,
+      " !Pitão " ,
+      " !textoreestruturado " ,
+      " !ferrugem " ,
+      " !escala " ,
+      " !scss "
+    ],
+    "editor.acceptSuggestionOnCommitCharacter" : falso ,
+    "explorer.compactFolders" : falso ,
+    "git.enableSmartCommit" : verdadeiro ,
+    "editor.accessibilitySupport" : " desligado " ,
+    "explorer.confirmDragAndDrop" : falso ,
+    "terminal.integrated.fontSize" : 14 ,
+    "terminal.integrated.fontFamily" : " Fonte JetBrainsMono Nerd " ,
+    "editor.codeActionsOnSave" : {
+      "source.fixAll.eslint" : " explícito "
+    },
+    "eslint.validate" : [
+      " javascript " ,
+      " javascriptreact " ,
+      " graphql " (gráfico ql)
+    ],
+    "editor.semanticHighlighting.enabled" : falso ,
+    "breadcrumbs.enabled" : falso ,
+    "workbench.productIconTheme" : " fluent-icons " ,
+    "editor.fontFamily" : " JetBrains Mono " ,
+    "gitlens.codeLens.authors.enabled" : falso ,
+    "editor.tabSize" : 2 ,
+    "security.workspace.trust.untrustedFiles" : " novaJanela " ,
+    "arquivos.exclude" : {
+      "** \/ CVS" : verdadeiro ,
+      "** \/ .DS_Store" : verdadeiro ,
+      "** \/ .hg" : verdadeiro ,
+      "** \/ .svn" : verdadeiro ,
+      "** \/ .git" : verdadeiro ,
+      ".vscode" : verdadeiro
+      // "node_modules": verdadeiro
+    },
+    "workbench.iconTheme" : " símbolos " ,
+    "update.mode" : " padrão " ,
+    "terminal.integrated.gpuAcceleration" : " ligado " ,
+    "terminal.integrated.defaultProfile.osx" : " peixe " ,
+    "[jsonc]" : {
+      "editor.defaultFormatter" : " vscode.json-language-features "
+    },
+    "[json]" : {
+      "editor.defaultFormatter" : " vscode.json-language-features "
+    },
+    "window.commandCenter" : falso ,
+    "git.openRepositoryInParentFolders" : " sempre " ,
+    "symbols.hidesExplorerArrows" : falso ,
+    "[javascript]" : {
+      "editor.defaultFormatter" : " vscode.typescript-language-features "
+    },
+    "console-ninja.featureSet" : " Comunidade " ,
+    "workbench.editor.empty.hint" : " oculto " ,
+    "update.showReleaseNotes" : falso ,
+    "security.promptForLocalFileProtocolHandling" : falso ,
+    "workbench.activityBar.location" : " oculto " ,
+    "apc.activityBar" : {
+      "posição" : " inferior " ,
+      "hideSettings" : verdadeiro ,
+      "tamanho" : 48 ,
+      "itemMargem" : 8 ,
+      "itemTamanho" : 32
+    },
+    "editor.hideCursorInOverviewRuler" : verdadeiro ,
+    "editor.minimap.enabled" : falso ,
+    "window.titleBarStyle" : " nativo " ,
+    "apc.electron" : {
+      "titleBarStyle" : " hiddenInset " ,
+      "posiçãodossinaldetráfego" : {
+        "x" : 11 ,
+        "e" : 10
+      },
+      "opacidade" : 1 ,
+      "vibração" : " escuro " ,
+      "quadro" : falso
+    },
+    "apc.header" : {
+      "altura" : 36
+    },
+    "apc.listRow" : {
+      "altura" : 24
+    },
+    "apc.font.family" : " Inter " ,
+    "apc.stylesheet" : {
+      ".title-label > h2" : " exibição: nenhum " ,
+      ".editor-actions" : " exibir: nenhum " ,
+      ".nosidebar .inline-tabs-placeholder" : " largura: 75px " ,
+      ".pane-header" : " preenchimento: 0 8px " ,
+      ".pane-body" : " preenchimento: 8px " ,
+      ".split-view-view:first-child .pane-header" : " display: none !important; " ,
+      ".monaco-list-row" : " raio da borda: 4px; " ,
+      ".monaco-workbench .monaco-list:not(.element-focused):focus:before" : " display: none; "
+    },
+    "editor.scrollbar.vertical" : " oculto " ,
+    "explorer.sortOrder" : " pastasNinhosArquivos " ,
+    "explorer.fileNesting.patterns" : {
+      "pacote.json" : " .eslint*, mais bonito*, tsconfig*, vite*, pnpm-*, bun.lockb, nest*, pacote-lock* " ,
+      "tailwind.config.*" : " tailwind.config*, postcss.config* " ,
+      ".env.local" : " .env* " ,
+      ".env" : " .env* "
+    },
+    "explorer.fileNesting.enabled" : verdadeiro ,
+    "workbench.statusBar.visible" : falso ,
+    "editor.tokenColorCustomizations" : {
+      "textMateRules" : []
+    },
+    "workbench.layoutControl.enabled" : falso ,
+    "workbench.colorTheme" : " Catppuccin Latte "
+  }
